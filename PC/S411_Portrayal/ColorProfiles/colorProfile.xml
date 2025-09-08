@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<colorProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			  xsi:noNamespaceSchemaLocation="s100ColorProfile.xsd">
+
+    <colors>
+
+        <color token="NODTA" name="grey">
+
+            <description>No data color</description>
+
+        </color>
+
+		<color token="ICEACT01" name="ice act color 1">
+
+			<description>ice color 1</description>
+
+		</color>
+
+		<color token="ICEACT02" name="ice act color 2">
+
+			<description>ice color 2</description>
+
+		</color>
+
+		<color token="ICEACT03" name="ice act color 3">
+
+			<description>ice color 3</description>
+
+		</color>
+
+		<color token="ICEACT12" name="ice act color 12">
+
+			<description>ice color 12</description>
+
+		</color>
+
+		<color token="ICEACT13" name="ice act color 13">
+
+			<description>ice color 13</description>
+
+		</color>
+
+		<color token="ICEACT20" name="ice act color 20">
+
+			<description>ice color 20</description>
+
+		</color>
+
+		<color token="ICEACT23" name="ice act color 23">
+
+			<description>ice color 23</description>
+
+		</color>
+
+		<color token="ICEACT24" name="ice act color 24">
+
+			<description>ice color 24</description>
+
+		</color>
+
+		<color token="ICEACT30" name="ice act color 30">
+
+			<description>ice color 30</description>
+
+		</color>
+
+		<color token="ICEACT34" name="ice act color 34">
+
+			<description>ice color 34</description>
+
+		</color>
+
+		<color token="ICEACT35" name="ice act color 35">
+
+			<description>ice color 35</description>
+
+		</color>
+
+		<color token="ICEACT40" name="ice act color 40">
+
+			<description>ice color 40</description>
+
+		</color>
+
+		<color token="ICEACT45" name="ice act color 45">
+
+			<description>ice color 45</description>
+
+		</color>
+
+		<color token="ICEACT46" name="ice act color 46">
+
+			<description>ice color 46</description>
+
+		</color>
+
+		<color token="ICEACT50" name="ice act color 50">
+
+			<description>ice color 50</description>
+
+		</color>
+
+		<color token="ICEACT56" name="ice act color 56">
+
+			<description>ice color 56</description>
+
+		</color>
+
+		<color token="ICEACT57" name="ice act color 57">
+
+			<description>ice color 57</description>
+
+		</color>
+
+		<color token="ICEACT60" name="ice act color 60">
+
+			<description>ice color 60</description>
+
+		</color>
+
+		<color token="ICEACT67" name="ice act color 67">
+
+			<description>ice color 67</description>
+
+		</color>
+
+		<color token="ICEACT68" name="ice act color 68">
+
+			<description>ice color 68</description>
+
+		</color>
+
+		<color token="ICEACT70" name="ice act color 70">
+
+			<description>ice color 70</description>
+
+		</color>
+
+		<color token="ICEACT78" name="ice act color 78">
+
+			<description>ice color 78</description>
+
+		</color>
+
+		<color token="ICEACT79" name="ice act color 79">
+
+			<description>ice color 79</description>
+
+		</color>
+
+		<color token="ICEACT80" name="ice act color 80">
+
+			<description>ice color 80</description>
+
+		</color>
+
+		<color token="ICEACT81" name="ice act color 81">
+
+			<description>ice color 81</description>
+
+		</color>
+
+		<color token="ICEACT89" name="ice act color 89">
+
+			<description>ice color 89</description>
+
+		</color>
+
+		<color token="ICEACT90" name="ice act color 90">
+
+			<description>ice color 90</description>
+
+		</color>
+
+		<color token="ICEACT91" name="ice act color 91">
+
+			<description>ice color 91</description>
+
+		</color>
+
+		<color token="ICEACT92" name="ice act color 92">
+
+			<description>ice color 92</description>
+
+		</color>
+
+		<color token="ICEACT99" name="ice act color 99">
+
+			<description>ice color 99</description>
+
+		</color>
+		
+    </colors>
+
+    
+
+    <palette name="Day">
+        <item token="NODTA">
+            <cie>
+                <xyL>
+                    <x>0.280</x>
+                    <y>0.310</y>
+                    <L>40.0</L>
+                </xyL>            
+            </cie>
+            <srgb>
+                <red>147</red>
+                <green>174</green>
+                <blue>187</blue>
+            </srgb>
+        </item>
+
+		<item token="ICEACT01">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>000</red>
+				<green>100</green>
+				<blue>255</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT02">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>150</red>
+				<green>200</green>
+				<blue>255</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT03">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>150</red>
+				<green>200</green>
+				<blue>255</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT10">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>140</red>
+				<green>255</green>
+				<blue>160</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT12">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>140</red>
+				<green>255</green>
+				<blue>160</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT13">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>140</red>
+				<green>255</green>
+				<blue>160</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT20">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>140</red>
+				<green>255</green>
+				<blue>160</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT23">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>140</red>
+				<green>255</green>
+				<blue>160</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT24">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT30">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT34">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT35">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT40">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT45">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT46">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT50">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT57">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT60">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>255</green>
+				<blue>000</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT67">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT68">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT70">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT78">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT79">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT80">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>125</green>
+				<blue>007</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT81">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT89">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT90">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT91">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>255</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT92">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>145</red>
+				<green>0</green>
+				<blue>0</blue>
+			</srgb>
+		</item>
+
+		<item token="ICEACT99">
+			<cie>
+				<xyL>
+					<x>0.280</x>
+					<y>0.310</y>
+					<L>40.0</L>
+				</xyL>
+			</cie>
+			<srgb>
+				<red>128</red>
+				<green>128</green>
+				<blue>128</blue>
+			</srgb>
+		</item>
+    </palette>
+
+    
+
+</colorProfile>
